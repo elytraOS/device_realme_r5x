@@ -6,9 +6,10 @@
         "branch":       "devel"
     },
     {
-        "repository":   "vendor_realme_r5x",
+        "remote": "github",
+        "repository":   "takumi021/vendor_realme_r5x",
         "target_path":  "vendor/realme/r5x",
-        "branch":       "scorch"
+        "branch":       "twelve"
     }
 ]
   
